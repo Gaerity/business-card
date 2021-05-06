@@ -61,7 +61,7 @@
   }
   
   .profile-card {
-    background-color: rgba(229, 227, 232, 0.7);
+    background-color: rgba(229, 227, 232, 0.4);
     border-radius: 30px;
     box-shadow: hsla(0, 0%, 0%, .8) 10px 10px 60px;
   }
@@ -83,7 +83,7 @@
   }
   
   a {
-    color: rgba(71, 71, 71, 0.8);
+    color: rgba(53, 52, 52, 0.8);
   }
   
   h1 {font-size: 24px}
